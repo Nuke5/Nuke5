@@ -16,7 +16,7 @@
 ### What I'm Up To
 
 - <a href="https://tryhackme.com/badge/regen/498304">TryHackMe</a> <br/>
-![tryhackme stats](https://raw.githubusercontent.com/Nuke5/Nuke5/master/assets/thm_propic.png)
+![tryhackme stats](https://raw.githubusercontent.com/Nuke5/Nuke5/master/assets/tryhackme_badge.png)
 
 - <a href="https://ctftime.org/user/157003"> CTF Time </a>
 - <a href="https://app.hackthebox.com/profile/369069">Hack The Box</a> <br/>
