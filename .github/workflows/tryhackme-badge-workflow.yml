@@ -25,7 +25,7 @@ jobs:
         env:
           THM_USERNAME: "Buryhiminsand" # Replace with your TryHackMe username
         run: |
-          mkdir -p assets # Ensure the assets directory exists
+          mkdir -p assets
           node -e "
             const puppeteer = require('puppeteer');
             (async () => {
@@ -34,8 +34,7 @@ jobs:
               const browser = await puppeteer.launch();
               const page = await browser.newPage();
               await page.goto(url);
-              // Select the badge element if available
-              const badgeElement = await page.$('#thm-badge');
+              const badgeElement = await page.$('#thm-badge'); // Fix: selector for badge
               if (badgeElement) {
                 await badgeElement.screenshot({ path: 'assets/tryhackme_badge.png' });
               } else {
