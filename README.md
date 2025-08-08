@@ -19,7 +19,7 @@
 
 - <a href="https://ctftime.org/user/157003"> CTF Time </a>
 - <a href="https://app.hackthebox.com/profile/369069">Hack The Box</a> <br/>
-![hackthebox stats](u)
+![hackthebox stats](https://www.hackthebox.com/badge/image/369069)
 <br />
 ---
 <br/>
