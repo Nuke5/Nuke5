@@ -3,10 +3,9 @@
 - 👨🏿‍🎓 I'm a Cybersecurity Enthusiast
 - 👸🏿 Hobbies: Gaming, Cycling,Sci-Fi and Fantasy
 - 😅 First proper linux exprience brought to by accidently deleting system32 in 2013
+- <a href="https://nuke5.github.io/tags/#ctf">Writeups</a>
 
 ### I'm Currently Learning
-- AWS solution architect
-- C#
 - Linux system administration
 - <a href="https://www.credly.com/earner/earned/badge/31683cdd-55e2-41d8-a340-8cb97ee02fc1">ISC<sup>2</sup> Certified in Cybersecurity</a> [Completed]
 
@@ -49,6 +48,25 @@ CTF events
     <td><a href="https://ctftime.org/team/218787">Sinestro</a></td>
     <td>2400.0000</td>
     <td>2.878</td>
+  </tr>
+    </tr>
+    <tr>
+    <td>1799</td>
+    <td></td>
+    <td>Cyber Apocalypse CTF 2025: Tales from Eldoria</td>
+    <td><a href="https://ctftime.org/team/218787">Sinestro</a></td>
+    <td>8275.0000</td>
+    <td>3.495</td>
+  </tr>
+    </tr>
+    </tr>
+    <tr>
+    <td>1078</td>
+    <td></td>
+    <td>NahamCon CTF 2025</td>
+    <td><a href="https://ctftime.org/team/218787">Sinestro</a></td>
+    <td>250.0000</td>
+    <td>0.897</td>
   </tr>
 </table> 
 <br />
