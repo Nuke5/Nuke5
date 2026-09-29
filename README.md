@@ -54,7 +54,7 @@ CTF events
   </tr>
     </tr>
     <tr>
-    <td>1799</td>
+    <td>1876</td>
     <td></td>
     <td>Cyber Apocalypse CTF 2025: Tales from Eldoria</td>
     <td><a href="https://ctftime.org/team/218787">Sinestro</a></td>
