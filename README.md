@@ -3,7 +3,7 @@
 - 👨🏿‍🎓 I'm a Cybersecurity Enthusiast
 - 👸🏿 Hobbies: Gaming, Cycling,Sci-Fi and Fantasy
 - 😅 First proper linux exprience brought to by accidently deleting system32 in 2013
-- [ CTF Writeups](https://nuke5.github.io/tags/#ctf)
+- [CTF Writeups](https://nuke5.github.io/tags/#ctf)
 
 ## I'm Currently Learning
 
@@ -30,7 +30,6 @@ CTF events
  <table>
   <tr>
     <th>Global Place</th>
-    <th>Country Place</th>
     <th>Event</th>
     <th>Team</th>
     <th>CTF Points</th>
@@ -38,41 +37,56 @@ CTF events
   </tr>
   <tr>
     <td>2448</td>
-    <td>10</td>
     <td>Cyber Apocalypse 2023: The Cursed Mission</td>
     <td><a href="https://ctftime.org/team/218787">Sinestro</a></td>
     <td>2125.0000</td>
     <td>2.142</td>
   </tr>
-    <tr>
+  <tr>
     <td>1799</td>
-    <td>7</td>
     <td>Cyber Apocalypse 2024: Hacker Royale</td>
     <td><a href="https://ctftime.org/team/218787">Sinestro</a></td>
     <td>2400.0000</td>
     <td>2.878</td>
   </tr>
-    </tr>
+  </tr>
     <tr>
     <td>1876</td>
-    <td></td>
     <td>Cyber Apocalypse CTF 2025: Tales from Eldoria</td>
     <td><a href="https://ctftime.org/team/218787">Sinestro</a></td>
     <td>8275.0000</td>
     <td>3.495</td>
   </tr>
-    </tr>
-    </tr>
-    <tr>
+  <tr>
     <td>1078</td>
-    <td></td>
     <td>NahamCon CTF 2025</td>
     <td><a href="https://ctftime.org/team/218787">Sinestro</a></td>
     <td>250.0000</td>
     <td>0.897</td>
   </tr>
+  <tr>
+    <td>880</td>
+    <td>Hack The Boo 2025 - Competition</td>
+    <td><a href="https://ctftime.org/team/218787">Sinestro</a></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>976</td>
+    <td>Holmes CTF 2026: The Reichenbach Directive</td>
+    <td><a href="https://ctftime.org/team/218787">Sinestro</a></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>1751</td>
+    <td>Cyber Apocalypse CTF 2026: The Salt Crown</td>
+    <td><a href="https://ctftime.org/team/218787">Sinestro</a></td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
-<br />
+<br/>
 
 [![Christopher Mboya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nuke5)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
